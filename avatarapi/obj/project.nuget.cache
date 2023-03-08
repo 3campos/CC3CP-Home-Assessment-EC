@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oln+WHCm67wyOECLPZLDGUAiisri00w69/KD1Sd5u5M3bhZ+f9s7Ck8ANANQhcFHKZUA9pYr3y4YYGdhNfmvWQ==",
+  "success": true,
+  "projectFilePath": "/Users/emiliocamposjr/2023-Projects/CC3DP-Home-Assessment-EC/avatarapi/avatarapi.csproj",
+  "expectedPackageFiles": [
+    "/Users/emiliocamposjr/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/emiliocamposjr/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/emiliocamposjr/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/emiliocamposjr/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/emiliocamposjr/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/emiliocamposjr/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
